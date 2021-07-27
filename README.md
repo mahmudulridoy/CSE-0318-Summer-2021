@@ -1,5 +1,5 @@
 # CSE-0402-Summer-2021
-This is a E-Commerce Lab Repository
+This is a Software Lab Repository
 
 Name: Mahmudul Islam
 
